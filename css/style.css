@@ -134,7 +134,7 @@ p {
     background-attachment: fixed;
 }
 
-/* .card {
+.card {
     height: 10rem;
     width: 25rem;
     margin: 2em auto;
@@ -163,7 +163,11 @@ p {
 @keyframes anim {
     from {transform: scale(1.0);}
     to {transform: scale(1.05);}
-} */
+}
+
+.cover {
+    margin-bottom: 25px;
+}
 
 .avatar {
     width: 150px;
